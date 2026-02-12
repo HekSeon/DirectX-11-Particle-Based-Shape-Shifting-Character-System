@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 1 — GPU Parçacık Simülasyonu.md",
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aşama 1 — GPU Parçacık Simülasyonu"
+              "title": "Proje Tanımı"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 1 — GPU Parçacık Simülasyonu.md",
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Aşama 1 — GPU Parçacık Simülasyonu için geri bağlantılar"
+              "title": "Proje Tanımı için geri bağlantılar"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 1 — GPU Parçacık Simülasyonu.md",
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Aşama 1 — GPU Parçacık Simülasyonu'dan giden bağlantılar"
+              "title": "Proje Tanımı'dan giden bağlantılar"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 1 — GPU Parçacık Simülasyonu.md",
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Aşama 1 — GPU Parçacık Simülasyonu ana hatları"
+              "title": "Proje Tanımı ana hatları"
             }
           }
         ]
@@ -200,8 +200,20 @@
   },
   "active": "47adcd1a2b7fb2e7",
   "lastOpenFiles": [
-    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 0 — Render Altyapısı.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/7. Tamamlanma Ölçütü.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/6. Ek Sistem — Yerde Yaprak Birikmesi.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/5. Temel Riskler.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/4. Zaman Tahmini.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 8 — Portföy Sunumu.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 7 — Performans Optimizasyonu.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 6 — Yaprak Parçacık Sistemi.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 5 — Genel Sahne Çarpışmaları.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 4 — Boru İçinden Geçiş Mekaniği.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 3 — Hacim Koruma ve Basınç Davranışı.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 2 — Parçacıktan Karakter Hacmi Üretimi.md",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 1 — GPU Parçacık Simülasyonu.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası/Aşama 0 — Render Altyapısı.md",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası",
     "Başlıksız",
     "LICENSE",
