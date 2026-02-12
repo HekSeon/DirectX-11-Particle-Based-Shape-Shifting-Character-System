@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "27a9fc0b9fb120e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c10e6c8a72f1361a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "973d4637e8671486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Geliştirme Yol Haritası"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b821bc95e0238d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a757e10ca65b370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93dce95aeccf251e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "f42599056e7f6268",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "21a266aa76f5d8c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39548d9c255e38af",
+    "type": "split",
+    "children": [
+      {
+        "id": "befc20421687a012",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf6ebd6d02808b9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "3. Geliştirme Yol Haritası için geri bağlantılar"
+            }
+          },
+          {
+            "id": "87ce091a743973b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "3. Geliştirme Yol Haritası'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "b2aa2a12a7d03080",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "6cd43f5ba583dbce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tüm özellikler"
+            }
+          },
+          {
+            "id": "97ba3d06bd351cbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "3. Geliştirme Yol Haritası ana hatları"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "973d4637e8671486",
+  "lastOpenFiles": [
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/2. Ana Mimari/2.2 CPU Sorumlulukları.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/2. Ana Mimari/2.1 GPU Sorumlulukları.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/2. Ana Mimari",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/3. Geliştirme Yol Haritası.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/Başlıksız/Başlıksız",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/Başlıksız 1.md",
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi"
+  ]
+}
