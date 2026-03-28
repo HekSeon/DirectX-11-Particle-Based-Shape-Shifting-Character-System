@@ -25,14 +25,16 @@
             "id": "47adcd1a2b7fb2e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "Proje Tanımı"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ],
@@ -189,17 +191,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Yeni taban oluştur": false,
       "switcher:Hızlı geçişi aç": false,
       "graph:Grafik görünümünü aç": false,
       "canvas:Yeni tuval oluşturun": false,
       "daily-notes:Bugünün Notunu Aç": false,
       "templates:Şablon ekle": false,
       "command-palette:Komut paletini aç": false,
-      "bases:Create new base": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "47adcd1a2b7fb2e7",
   "lastOpenFiles": [
+    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
+    "Untitled Kanban.md",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/7. Tamamlanma Ölçütü.md",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/6. Ek Sistem — Yerde Yaprak Birikmesi.md",
@@ -220,7 +226,6 @@
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/2. Ana Mimari/2.2 CPU Sorumlulukları.md",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/2. Ana Mimari/2.1 GPU Sorumlulukları.md",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/2. Ana Mimari",
-    "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı/Proje Tanımı.md",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/Başlıksız/Başlıksız",
     "DX11 Parçacık Tabanlı Şekil Değiştiren Karakter Sistemi/1. Proje Tanımı",
